@@ -1,0 +1,10 @@
+CD:change directories is mostly use to change the folder where you starting the project 
+
+Ls:list command is use to list the folders
+
+Sudo: sudo is use to recall a tool like, sudo burpsuite, sudo nmap(only for linux)
+
+atp update: atp update command is use to update all tools of linux.(only for linux)
+
+sudo shutdown -h 18:00 "Shutting down"
+
